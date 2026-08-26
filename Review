@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap" rel="stylesheet">
+
+<style>
+    body{
+    background-color: teal;
+
+    h1 {font-family:Cinzel}
+    h2 {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
+
+    .color{color:yellow}
+    p {text-align: center;}
+}
+
+</style>
+
+<body>
+    <h1>Module 5 for 5 year olds</h1>
+
+    <hr style="border: none; border-top: 3px solid crimson;">
+<p>
+<a href="https://youtu.be/6v1qNVZmofI?si=U4u6roU9hRDUIPvO&t=51">
+    <img src="https://cdn.promptden.com/images/80dec26d-d3c8-4ba7-b7e8-61eba82b06b9.jpg?class=standard" width="300">
+    </a></p>
+
+    <h2>HTML</h2>
+    <ol>
+        <li>Bones of the webpage</li>
+        <li>Lines, breaks</li>
+        <li>Outline / structure</ol>
+
+    <h2>CSS</h2>
+    <ol>
+        <li>Style, style sheets</li>
+        <li class="color">Color, fonts, design</li>
+        <li>Pretty looking things</li>
+        </ol>
+    
+</body>
+</html>
